@@ -13,3 +13,4 @@ memory_profiler
 numexpr
 pandas-datareader
 netcdf4
+networkx>=2.6 # not directly required, pinned by Snyk to avoid a vulnerability
