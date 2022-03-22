@@ -13,3 +13,5 @@ memory_profiler
 numexpr
 pandas-datareader
 netcdf4
+ipython>=7.16.3 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
